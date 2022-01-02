@@ -15,7 +15,7 @@ I created and maintain the [PROWEBLOOk](https://proweblook.com) project. As part
     <summary> <samp>📝 Programming Languages</samp></summary>
 <br/>
 
-![Shivam Mathur GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dubeychandan996&langs_count=10&layout=compact)
+![Chandan Dubey GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dubeychandan996&langs_count=10&layout=compact)
 
 </details>
 
