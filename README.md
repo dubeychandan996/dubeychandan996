@@ -22,6 +22,6 @@ I created and maintain the [PROWEBLOOk](https://proweblook.com) project. As part
 If you use any of my projects, a monthly sponsorship would mean a lot and make my open-source work sustainable.
 
 [![https://github.com/sponsors/dubeychandan996](https://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub%20Sponsors)](https://github.com/sponsors/dubeychandan996)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=Gmail&logoColor=white)](mailto:info@chandandubey.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=Gmail&logoColor=white)](mailto:dubeychandan996@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/dubeychandan996)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandankumardubey/)
